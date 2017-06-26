@@ -10,7 +10,7 @@ Happy calculating!
 
 ## Installation
 
-**Note a local installation of Erlang is required to run this application**
+**Note a local installation of Erlang 19 is required to run this application**
 
 Just download this repository.
 
